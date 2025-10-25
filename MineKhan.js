@@ -2736,7 +2736,7 @@ function MineKhan() {
 	win.deleteFromDB = deleteFromDB
 	// Global Variables
 	// {
-		let version = "Alpha 3.7.7"
+		let version = "Alpha 3.7.8"
 		let versionNumbers = version.split(" ")[1]
 		let reach = 0
 		let sky = [0.247, 0.741, 0.988]
