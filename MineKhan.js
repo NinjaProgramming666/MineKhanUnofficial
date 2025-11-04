@@ -2917,7 +2917,7 @@ function MineKhan() {
 				info: "Today, I just fixed some minor bugs with loading save-cades, and the 'Special'\nblacks.",
 			},
 			{
-				time: "10/2425/25",
+				time: "10/24-\n25/25",
 				info: "Transfered most of the JavaScript code of this program to an external file,\nallowing for much longer save codes to be stored within the program code.",
 			},
 			{
