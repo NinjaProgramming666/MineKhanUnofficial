@@ -2918,7 +2918,7 @@ function MineKhan() {
 			},
 			{
 				time: "10/25/25",
-				info: "Transfered most of the JavaScript code of this program to an external file,\nallowing for much longer save codes to be stored within the program code.",
+				info: "Transfered most of the JavaScript code of this program to an external file,\nallowing for much longer save codes to be stored within the program code..",
 			},
 			{
 				time: "00/00/00",
